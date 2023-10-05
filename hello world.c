@@ -1,5 +1,5 @@
 #include<stdio.h>
-// double slash is the way you can comment a sentense.
+// double slash is the way you can comment a sentence.
 // stdio. h is a header file which has the necessary information to include the input/output related functions in our program. Example printf, scanf
 main()
 // A main is a predefined keyword or function in C.
